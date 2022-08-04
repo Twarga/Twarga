@@ -8,5 +8,5 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...https://www.instagram.com/twarga_dev14/
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I'm too lazy adn I love game dev too 
+- ⚡ Fun fact: ... I'm too lazy and I love game dev too 
 -->
