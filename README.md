@@ -1,5 +1,5 @@
 **# 💫 About Me:
-<br>    🌱 I’m currently learning DevOps<br>    👯 I’m looking to collaborate on ... DevOps Projects<br>    🤔 I’m looking for help with ...DSA<br>    💬 Ask me about ...Anything<br>    📫 How to reach me: ...https://www.linkedin.com/in/youness-touzani-762379259/<br>    ⚡ Fun fact: ... I'm too lazy and I love game dev too --><br>
+<br>    🌱 I’m currently learning Cyber Security <br>    👯 I’m looking to collaborate on ... CTF Team<br>    🤔 I’m looking for help with ...DSA<br>    💬 Ask me about ...Anything<br>    📫 How to reach me: ...https://www.linkedin.com/in/youness-touzani-762379259/<br>    ⚡ Fun fact: ... I'm too lazy and I love game dev too --><br>
 
 
 ## 🌐 Socials:
