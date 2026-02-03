@@ -1,8 +1,4 @@
 
-
-Here is the final updated README with the "Connect With Me" section removed.
-
-```markdown
 # Hi, I'm Youness Touzani (Twarga)
 
 ## 22 | DevSecOps Engineer & Founder @ TwargaOps
@@ -65,4 +61,3 @@ I'm Youness, but people call me Twarga. I build cloud infrastructure and automat
 ![](https://github-readme-stats.vercel.app/api?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Twarga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-```
