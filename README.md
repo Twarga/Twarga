@@ -74,8 +74,17 @@
 
 ## 📊 GitHub Analytics
 
+<table>
+  <tr>
+    <td width="50%">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td width="50%">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twarga&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twarga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twarga&theme=dark&hide_border=false" />
 </p>
