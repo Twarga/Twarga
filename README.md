@@ -75,5 +75,5 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Twarga&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Twarga&theme=dark&hide_border=false" alt="Twarga's GitHub Streak" />
 </p>
