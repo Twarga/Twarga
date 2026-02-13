@@ -29,7 +29,7 @@
 
 ### 🔨 Current Work (In Progress)
 
-- 🐧 **[TwargaOS]** – Building my own lightweight Debian-based Linux distro tailored for secure DevSecOps workflows and daily driver use.
+- 🐧 **[TwargaOS]** – Building my own lightweight Fedora-based Linux distro tailored for secure DevSecOps workflows and daily driver use.
 - 🍞 **[Yeast]** *(Private GitHub)* – A modern, lightweight local VM orchestrator designed to be a faster, simpler alternative to Vagrant for Linux users.
 - 🧪 **[Labsabckery]** *(Private GitHub)* – A Virtual Lab Management Platform for Cybersecurity Education. Built on top of Yeast to build, run, and monitor cybersecurity labs with zero configuration.
 
