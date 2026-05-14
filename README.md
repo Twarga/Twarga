@@ -43,7 +43,7 @@
 - 🎙️ **[Praxies](https://github.com/Twarga/praxies)** - Private local-first video journal with Whisper transcription and LLM analysis.
 - 🎵 **[Tplayer](https://github.com/Twarga/Tplayer)** - Local-first desktop music player with YouTube import and Last.fm scrobbling.
 - 🧲 **[MediaHarborButcher](https://github.com/Twarga/MediaHarborButcher)** - Local web app that extracts images and videos from webpages using Playwright and yt-dlp.
-- 🧩 **[Nodi](https://github.com/Twarga/Nodi)** - Experimental local-first node/workflow tool.
+- 🗂️ **[Nodi](https://github.com/Twarga/Nodi)** - Lightweight self-hosted web file manager built with Go, Preact, Tailwind CSS, and Docker.
 
 ### 📂 Old Apps / Portfolio Projects
 
